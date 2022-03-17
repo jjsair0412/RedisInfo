@@ -362,7 +362,7 @@ dbfilename dump.rdb
 # The Append Only File will also be created inside this directory.
 #
 # Note that you must specify a directory here, not a file name.
-dir /home/ubuntu/redis-slaves/7005
+dir /home/ubuntu/redis-cluster/7005
 
 ################################# REPLICATION #################################
 
